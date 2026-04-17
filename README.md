@@ -15,8 +15,10 @@
 ## واجهات المستخدم (UI/UX)
 توضح الصور التالية واجهات تطبيق "رقيب" وتجربة المستخدم:
 
+
 <p align="center">
-<p align="center"> <img src="UI.jpeg" alt="User Interface" width="75%"> </p>
+  <img src="ui1.gif" width="350" alt="Raqeeb App Demo">
+
 </p>
 
 ---
