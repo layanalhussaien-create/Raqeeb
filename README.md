@@ -38,12 +38,12 @@
 ---
 
 ## التقنيات المستخدمة
-* Next.js
-* React
 * Python
-* Azure AI (LLM & NLP)
+* streamlit
+* LLM (تحليل الحالة)
+* NLP (فهم النتائج)
 * Text-to-Speech (TTS)
-* LiteLLM Proxy
+* API Integration
 
 ---
 
