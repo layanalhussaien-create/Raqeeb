@@ -49,10 +49,5 @@
 
 ## التشغيل
 ```bash
-npm install
-npm run dev
-
-## التشغيل
-```bash
-npm install
-npm run dev
+pip install streamlit requests
+streamlit run raqeb_app.py
